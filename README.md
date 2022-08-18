@@ -11,7 +11,7 @@ Para compilar o projeto, digite o seguinte comando dentro do diretório do proje
 ```console
 $ make
 ```
-Após, basta inserir a página HTML no diretório do projeto, e acessa-lá através de "http://localhost:9010/index.html". O servidor é compátivel apenas com arquivos HTML, CSS, JPG e JPEG.
+Após, basta inserir a página HTML no diretório do projeto, e acessá-la através de "http://localhost:9010/index.html". O servidor é compatível apenas com arquivos HTML, CSS, JPG e JPEG.
 Entretanto, qualquer expansão pode ser feita com facilidade, dada a simplicidade do código.
 
 ## Screenshots
