@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Servidor HTTP desenvolvido em C, como projeto da disciplina de Redes de Computadores da Universidade Federal do Pampa. O mesmo constitui um servidor simples mas funcional, possuindo algumas 
+Servidor HTTP desenvolvido em C, como projeto da disciplina de Redes de Computadores da Universidade Federal do Pampa. O mesmo constitui um servidor simples, mas funcional, possuindo algumas 
 características interessantes, como conexões concorrentes, através da biblioteca Pthreads, keep-alive para clientes compatíveis, compatibilidade com arquivos CSS e jpg, entre outras.
 
 ## Instruções de uso
