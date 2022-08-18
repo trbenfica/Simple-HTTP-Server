@@ -16,8 +16,9 @@ Entretanto, qualquer expansão pode ser feita com facilidade, dada a simplicidad
 
 ## Screenshots
 
-Servidor esperando por requisiçoes:
+Servidor esperando por requisições:
+
 ![image](https://user-images.githubusercontent.com/50810498/185488978-cfd01588-01f8-4336-abd9-e22c09ada6d3.png)
 
-Servidor após o envio de uma página ao cliente (neste caso, Firefox)
+Após o envio de uma página ao cliente (neste caso, Firefox)
 ![image](https://user-images.githubusercontent.com/50810498/185488686-3e99870e-9aca-45e6-9419-7416d6bd3fcd.png)
